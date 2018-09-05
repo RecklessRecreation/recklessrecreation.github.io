@@ -30,6 +30,7 @@ title: Archive
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
             {{ post.title }}
           </a>
+          <small> - tags: <em>{{ post.tags | join: "</em> - <em>" }}</em> </small>
         </li>
     {% endfor %}
     </ul>
