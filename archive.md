@@ -28,8 +28,7 @@ title: Archive
       {% endunless %}
         <li><time>{{ post.date | date:"%d %b" }} - </time>
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-            {{ post.title }}
-          </a><small> - tags: <em>{{ post.tags | join: "</em>, <em>" }}</em> </small>
+            {{ post.title }}</a><small> - tags: <em>{{ post.tags | join: "</em>, <em>" }}</em> </small>
         </li>
     {% endfor %}
     </ul>
