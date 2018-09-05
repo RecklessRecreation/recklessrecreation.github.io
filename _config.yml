@@ -1,6 +1,6 @@
 title: "Reckless Recreation"
 description: "my ramblings about video games and other personal recreation"
-author: 
+author:
   name: "ReckedCat"
   email: "info@reckedcat.com"
   url: "reckedcat.com"
@@ -28,6 +28,6 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
+owner : "ReckedCat"
 year : "2018"
 
