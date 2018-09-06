@@ -3,8 +3,7 @@
     <a href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}">
     {% assign owner_first_name = site.owner | split: " " %}
     <h1>
-      <span class="rwd-line">{{ owner_first_name[0] | downcase }}@home</span>
-      <span class="rwd-line">:{{ site.header_path | default: "~" }}$</span>
+      <span class="rwd-line">{{ owner_first_name[0] | downcase }}@home</span><span class="rwd-line">:{{ site.header_path | default: "~" }}$</span>
     </h1>
     </a>
     <div class="header-links">
