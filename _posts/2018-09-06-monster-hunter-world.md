@@ -2,7 +2,7 @@
 author:     ReckedCat
 layout:     post
 title:      "Monster Hunter: World (PC)"
-tags:       [monster hunter world, pc, capcom, recommended]
+tags:       [games, monster hunter world, pc, capcom, recommended]
 published:  true
 ---
 
@@ -52,5 +52,11 @@ You'll see your friends who are less engaged by the core gameplay loop fall out 
 
 While I don't think that Monster Hunter: World will hold large audiences for years to come, I expect it to maintain a "small", persistent audience who loves the grind.
 
+---
+Links:
+[Monster Hunter: World][mhw]
+[Steam][mhw-steam]
+
 [special-k-mod]: https://steamcommunity.com/app/582010/discussions/3/1745594817439431537/
+[mhw]: http://www.monsterhunterworld.com/
 [mhw-steam]: https://store.steampowered.com/app/582010/MONSTER_HUNTER_WORLD/

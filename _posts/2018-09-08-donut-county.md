@@ -36,3 +36,12 @@ Donut County is really good.
 If you've got a couple hours to sink and enjoy a relaxing scene, this is totally worth your time and money.
 
 Remember, have a garbage day!
+
+---
+Links:
+[Donut County][donut-county]
+[Steam][donut-county-steam]
+
+
+[donut-county]: http://www.donutcounty.com/
+[donut-county-steam]: https://store.steampowered.com/app/702670/Donut_County/
