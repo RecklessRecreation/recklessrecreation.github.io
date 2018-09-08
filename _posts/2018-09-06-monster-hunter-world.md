@@ -6,14 +6,14 @@ tags:       [monster hunter world, pc, capcom, recommended]
 published:  true
 ---
 
-#### Monster Hunter: World is pretty damn good
+## Monster Hunter: World is pretty damn good
 
-...but it's far from perfect.
+but it's far from perfect.
 
 Despite exceptional sales performance, gorgeous visuals, and engaging gameplay, weeks after its PC launch it still holds a 48% positive review on [Steam's store][mhw-steam].
 Its release on PC has certainly been frought with technical concerns: connection issues, exceptionally high CPU usage, and clunky mouse/keyboard controls are some of the first problems that come to mind.
 
-#### The bad
+### The bad
 
 To counter some of this, the game can be played using various gamepads (I've been using an Xbox controller). 
 Connection issues have largely been patched and resolved at this point (there was some finger-pointing at Valve, though I've yet to see anything official or definitive on the subject).
@@ -21,7 +21,7 @@ There's been some thoughts that the [Special K mod][special-k-mod] can be used t
 I must also stress that Capcom has historically banned users for using mods of any kind (even aesthetic-only mods). Use at your own risk.
 
 
-#### The good
+### The good
 
 Now that I've dumped the technical dirty laundry, let's look at what MHW does right.
 
@@ -36,7 +36,7 @@ Every ledge jump and every vine swing feels like a crafted cinematic storyboard,
 You control how you explore. You create your own story.
 
 
-#### The complicated
+### The complicated
 
 While I love this game, and can absolutely see myself playing more for a while yet, I don't think it will hold most audiences long-term.
 
